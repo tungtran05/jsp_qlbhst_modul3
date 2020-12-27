@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/BackUp/PTIT/Semester%207/Phan%20tich%20va%20Thiet%20ke%20HTTT/Demo/QuanLySieuThi_Demo_JSP_final_1/web/gdDangNhap.jsp</file>
+            <file>file:/E:/BackUp/PTIT/Semester%207/Phan%20tich%20va%20Thiet%20ke%20HTTT/Demo/QuanLySieuThi_Demo_JSP_final_1/web/nvkho/doXoaNCC.jsp</file>
+            <file>file:/E:/BackUp/PTIT/Semester%207/Phan%20tich%20va%20Thiet%20ke%20HTTT/Demo/QuanLySieuThi_Demo_JSP_final_1/web/index.html</file>
+            <file>file:/E:/BackUp/PTIT/Semester%207/Phan%20tich%20va%20Thiet%20ke%20HTTT/Demo/QuanLySieuThi_Demo_JSP_final_1/web/nvquanly/gdXemChiTietHoaDon.jsp</file>
+            <file>file:/E:/BackUp/PTIT/Semester%207/Phan%20tich%20va%20Thiet%20ke%20HTTT/Demo/QuanLySieuThi_Demo_JSP_final_1/web/nvkho/doSuaNCC.jsp</file>
+            <file>file:/E:/BackUp/PTIT/Semester%207/Phan%20tich%20va%20Thiet%20ke%20HTTT/Demo/QuanLySieuThi_Demo_JSP_final_1/web/nvquanly/gdChinhNVQuanLy.jsp</file>
+            <file>file:/E:/BackUp/PTIT/Semester%207/Phan%20tich%20va%20Thiet%20ke%20HTTT/Demo/QuanLySieuThi_Demo_JSP_final_1/web/nvkho/gdQuanLyNCC.jsp</file>
+            <file>file:/E:/BackUp/PTIT/Semester%207/Phan%20tich%20va%20Thiet%20ke%20HTTT/Demo/QuanLySieuThi_Demo_JSP_final_1/web/nvkho/doNhapHang.jsp</file>
+            <file>file:/E:/BackUp/PTIT/Semester%207/Phan%20tich%20va%20Thiet%20ke%20HTTT/Demo/QuanLySieuThi_Demo_JSP_final_1/web/META-INF/context.xml</file>
+            <file>file:/E:/BackUp/PTIT/Semester%207/Phan%20tich%20va%20Thiet%20ke%20HTTT/Demo/QuanLySieuThi_Demo_JSP_final_1/src/java/model/MatHang.java</file>
+            <file>file:/E:/BackUp/PTIT/Semester%207/Phan%20tich%20va%20Thiet%20ke%20HTTT/Demo/QuanLySieuThi_Demo_JSP_final_1/src/java/model/ThanhVien.java</file>
+            <file>file:/E:/BackUp/PTIT/Semester%207/Phan%20tich%20va%20Thiet%20ke%20HTTT/Demo/QuanLySieuThi_Demo_JSP_final_1/src/java/model/HoaDonNhap.java</file>
+            <file>file:/E:/BackUp/PTIT/Semester%207/Phan%20tich%20va%20Thiet%20ke%20HTTT/Demo/QuanLySieuThi_Demo_JSP_final_1/src/java/dao/DonViTinhDAO.java</file>
+            <file>file:/E:/BackUp/PTIT/Semester%207/Phan%20tich%20va%20Thiet%20ke%20HTTT/Demo/QuanLySieuThi_Demo_JSP_final_1/src/java/model/HoaDonNhap_MatHang.java</file>
+            <file>file:/E:/BackUp/PTIT/Semester%207/Phan%20tich%20va%20Thiet%20ke%20HTTT/Demo/QuanLySieuThi_Demo_JSP_final_1/src/java/dao/SieuThiDAO.java</file>
+            <file>file:/E:/BackUp/PTIT/Semester%207/Phan%20tich%20va%20Thiet%20ke%20HTTT/Demo/QuanLySieuThi_Demo_JSP_final_1/web/nvkho/doThemMH.jsp</file>
+            <file>file:/E:/BackUp/PTIT/Semester%207/Phan%20tich%20va%20Thiet%20ke%20HTTT/Demo/QuanLySieuThi_Demo_JSP_final_1/src/java/dao/DAO.java</file>
+            <file>file:/E:/BackUp/PTIT/Semester%207/Phan%20tich%20va%20Thiet%20ke%20HTTT/Demo/QuanLySieuThi_Demo_JSP_final_1/web/nvkho/doThemNCC.jsp</file>
+            <file>file:/E:/BackUp/PTIT/Semester%207/Phan%20tich%20va%20Thiet%20ke%20HTTT/Demo/QuanLySieuThi_Demo_JSP_final_1/web/nvkho/gdChinhNVKho.jsp</file>
+            <file>file:/E:/BackUp/PTIT/Semester%207/Phan%20tich%20va%20Thiet%20ke%20HTTT/Demo/QuanLySieuThi_Demo_JSP_final_1/web/nvkho/gdNhapHang.jsp</file>
+            <file>file:/E:/BackUp/PTIT/Semester%207/Phan%20tich%20va%20Thiet%20ke%20HTTT/Demo/QuanLySieuThi_Demo_JSP_final_1/web/doDangNhap.jsp</file>
+            <file>file:/E:/BackUp/PTIT/Semester%207/Phan%20tich%20va%20Thiet%20ke%20HTTT/Demo/QuanLySieuThi_Demo_JSP_final_1/web/nvkho/gdThemMH.jsp</file>
+            <file>file:/E:/BackUp/PTIT/Semester%207/Phan%20tich%20va%20Thiet%20ke%20HTTT/Demo/QuanLySieuThi_Demo_JSP_final_1/src/java/model/ThongKeNhaCungCap.java</file>
+            <file>file:/E:/BackUp/PTIT/Semester%207/Phan%20tich%20va%20Thiet%20ke%20HTTT/Demo/QuanLySieuThi_Demo_JSP_final_1/src/java/dao/LoaiMatHangDAO.java</file>
+            <file>file:/E:/BackUp/PTIT/Semester%207/Phan%20tich%20va%20Thiet%20ke%20HTTT/Demo/QuanLySieuThi_Demo_JSP_final_1/web/nvquanly/gdXemThongKeCacLanNhapHangCuaNhaCungCap.jsp</file>
+            <file>file:/E:/BackUp/PTIT/Semester%207/Phan%20tich%20va%20Thiet%20ke%20HTTT/Demo/QuanLySieuThi_Demo_JSP_final_1/web/nvquanly/gdXemThongKeNCCTheoLuongHangNhap.jsp</file>
+            <file>file:/E:/BackUp/PTIT/Semester%207/Phan%20tich%20va%20Thiet%20ke%20HTTT/Demo/QuanLySieuThi_Demo_JSP_final_1/web/nvkho/gdTimVaChonNCC.jsp</file>
+            <file>file:/E:/BackUp/PTIT/Semester%207/Phan%20tich%20va%20Thiet%20ke%20HTTT/Demo/QuanLySieuThi_Demo_JSP_final_1/web/nvkho/gdThemNCC.jsp</file>
+            <file>file:/E:/BackUp/PTIT/Semester%207/Phan%20tich%20va%20Thiet%20ke%20HTTT/Demo/QuanLySieuThi_Demo_JSP_final_1/src/java/dao/HoaDonNhapDAO.java</file>
+            <file>file:/E:/BackUp/PTIT/Semester%207/Phan%20tich%20va%20Thiet%20ke%20HTTT/Demo/QuanLySieuThi_Demo_JSP_final_1/src/java/dao/NhanVienDAO.java</file>
+            <file>file:/E:/BackUp/PTIT/Semester%207/Phan%20tich%20va%20Thiet%20ke%20HTTT/Demo/QuanLySieuThi_Demo_JSP_final_1/src/java/dao/MatHangDAO.java</file>
+            <file>file:/E:/BackUp/PTIT/Semester%207/Phan%20tich%20va%20Thiet%20ke%20HTTT/Demo/QuanLySieuThi_Demo_JSP_final_1/src/java/dao/NhaCungCapDAO.java</file>
+            <file>file:/E:/BackUp/PTIT/Semester%207/Phan%20tich%20va%20Thiet%20ke%20HTTT/Demo/QuanLySieuThi_Demo_JSP_final_1/src/java/model/NhanVien.java</file>
+            <file>file:/E:/BackUp/PTIT/Semester%207/Phan%20tich%20va%20Thiet%20ke%20HTTT/Demo/QuanLySieuThi_Demo_JSP_final_1/web/nvquanly/gdXemThongKe.jsp</file>
+            <file>file:/E:/BackUp/PTIT/Semester%207/Phan%20tich%20va%20Thiet%20ke%20HTTT/Demo/QuanLySieuThi_Demo_JSP_final_1/src/java/dao/ThongKeNhaCungCapDAO.java</file>
+            <file>file:/E:/BackUp/PTIT/Semester%207/Phan%20tich%20va%20Thiet%20ke%20HTTT/Demo/QuanLySieuThi_Demo_JSP_final_1/src/java/dao/ThanhVienDAO.java</file>
+            <file>file:/E:/BackUp/PTIT/Semester%207/Phan%20tich%20va%20Thiet%20ke%20HTTT/Demo/QuanLySieuThi_Demo_JSP_final_1/web/nvkho/gdSuaNCC.jsp</file>
+        </group>
+    </open-files>
+</project-private>
